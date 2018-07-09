@@ -1,0 +1,8 @@
+*.iml
+*/.idea
+*/build
+*/bin
+*/.settings
+*/.project
+*/.classpath
+*/target
